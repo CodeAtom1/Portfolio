@@ -6,7 +6,7 @@ const experiences = [
     {
         company: 'SHL',
         period: 'Oct 2022 - Present',
-        description: 'Leading a team of .Net developers and implementation of an integration appliction.',
+        description: 'Leading a team of .Net developers and implementation of an integration application.',
       },
       {
         company: 'Accenture',
