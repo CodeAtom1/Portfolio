@@ -63,15 +63,15 @@ const Skills = () => {
             <div className="text-gray-300 my-3">
                 <h3 className="text-4xl font-semibold mb-5">About <span>Me</span></h3>
                 <p className="text-justify leading-7 w-11/12 mx-auto">
-                I'm 11+ years experienced fullstack developer in development, system design and deployment of technologies like .Net, Azure, relational and non-relational databases 
+                I'm 12 years experienced fullstack developer in development, system design and deployment of technologies like .Net, Azure, relational and non-relational databases 
                 in an agile and waterfall software development lifecycles.
                 </p>
             </div>
 
             <div className="flex text-center justify-center mt-10 items-center gap-7">
                 <div className="bg-gray-800/40 p-5 rounded-lg">
-                    <h3 className="md:text-4xl text-2xl font-semibold text-white">11
-                        <span>+</span>
+                    <h3 className="md:text-4xl text-2xl font-semibold text-white">12
+                        <span></span>
                     </h3>
                     <p className="text-xs md:text-base"><span>years of experience</span></p>
                 </div>
