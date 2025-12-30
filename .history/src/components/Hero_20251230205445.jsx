@@ -81,7 +81,7 @@ const Hero = () => {
                         className="z-10 cursor-pointer font-bold text-gray-200 md:w-auto p-4 border
                                      border-purple-400 rounded-xl"    
                     >
-                       {/* <a href={Resume} download="Resume.pdf">Download CV</a>  */}
+                       <a href={Resume} download="Resume.pdf">Download CV</a> 
                     </motion.button>
 
                     <div className="flex gap-6 flex-row text-4xl md:text-6xl text-purple-400 z-20">
